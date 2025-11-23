@@ -1,0 +1,11 @@
+mlflow
+cryptography==41.0.5
+evidently
+deepchecks==0.19.1
+pandas
+numpy==1.26.4
+scikit-learn
+seaborn
+matplotlib
+joblib
+setuptools
